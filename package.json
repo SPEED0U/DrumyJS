@@ -1,0 +1,18 @@
+{
+  "name": "drumy",
+  "main": "main.js",
+  "author": "Speedou",
+  "version": "6.0.0",
+  "repository": "",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.1.0",
+    "ffmpeg-static": "^5.0.0",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8",
+    "spotify-url-info": "^3.0.5"
+  }
+}
